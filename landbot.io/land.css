@@ -1,0 +1,99 @@
+.hu-header-brand_name {
+
+    background-size: contain;
+    color: transparent;
+    padding-right: 30px;
+    background: url(https://storage.googleapis.com/landbot.io/misc/new/logo.svg) no-repeat 0 50%;
+  
+    
+
+}
+
+.big_div_2{
+
+background-color: transparent;
+margin: 10px;
+position: fixed;
+width: 100%;
+padding: 30px;
+padding-left: 60px;
+
+
+}
+header ul li {
+    display: inline-block;
+}
+
+body{
+    background-color: #281e65;
+}
+main{
+    background: linear-gradient(270deg, #a9c31e, #c31e41, #381ec3);
+    padding-top: 100px;
+    margin: 20px;
+    border-radius: 10px;
+
+}
+.logo1{
+
+padding-left: 10px;
+
+
+}
+.si:hover{
+    color:white;
+    background-color: #c4297f;
+}
+.btnLogin{
+    border-color: #c4297f;
+    color: white;
+    border-radius: 30px;
+}
+
+.btnLogin:hover{
+    border-color: #c4297f;
+    color: white;
+    background-color: transparent;
+}
+.radius30{
+    border-radius: 30px;
+}
+.pWhite{
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 1px;
+    display: table;
+}
+.image1{
+    width: 80%;
+    height: auto;
+}
+.btn_bot{
+color: white;
+background-color: rgb(238, 0, 118);
+border-radius: 20px;
+padding: 20px;
+
+    
+}
+.h6_1{
+
+font-size: 12px;
+color: white;
+
+
+}
+.btn_info{
+
+color:white;   
+background-color: rgb(238, 0, 118);
+border-radius: 20px;
+padding: 20px;
+
+}
+.wledou2{
+margin-top: 20px;
+
+}
+
+
